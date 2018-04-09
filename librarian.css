@@ -1,0 +1,27 @@
+body 			{background-image:url(lib_issue.jpg);
+				background-size: cover; 
+				margin:0;}
+#top_head		{background-color: rgba(70,70,70,0.8);
+				margin:auto;
+				width:99.4vw;
+				height:7vh;
+				position:relative;
+				top:0vh;}
+.rightdivs		{background-color: rgba(40,40,40); position:relative; height:7vh; width:15vw; float:right;font-family: helvetica;}
+.rightdivs:hover,.prof_menu:hover{background-color: black;}
+#user_div		{float:left; position:relative; height:7vh; width:20vw; color:white; font-size: 3.1vmin;left:2vw;top:1.2vh; font-family: Tempus Sans ITC;}
+.rightlinks     {color:white; float:right; font-size: 2.3vmin; position:relative; top:2vh; right:2.5vw; text-decoration:none;,align:centre;}
+#logoutlink	,#proflink	{right:5.5vw;}
+#libr_info		{background-color: rgba(70,70,70,0.8); position:relative; width:100vw; height:38vh;top:8vh;}
+.prof_menu		{background-color: rgba(40,40,40); position:relative; width:20%; height:7vh;top:10vh;float:left;font-size:2.1vmin;color:white;}
+#info_table		{position:relative;width:50vw; height:12vh; top:2vh; left:1.2vw;font-size:1.8vmax;font-family: helvetica;color:white;}
+.menu_content	{position:relative;background-color: rgba(70,70,70,0.8);width:100vw;height:39vh;top:19vh;}
+.err			{color:yellow;font-size: 2.5vmin;position:relative;top:-4vh;}
+#form_add		{width:45%;position:relative;top:-2vh;margin:0;left:3vw;font-size:2.3vmin;color:white;font-family:helvetica}
+.bkadd_field	{float:right;width:65%;height:0vh;outline:none;font-size:2.2vmin;box-sizing:border-box;padding-top:1.4vmin;
+				padding-bottom: 1.4vmin;padding-left:1vmin;}
+#form_issue,#form_return	{width:50%;position:relative;top:5vh;margin:auto;font-size:2.3vmin;color:white;font-family:helvetica}
+#final_log1,#final_log2		{float:right;font-size: 2.5vmin;height:4.8vh;width: 5.8vw;outline:none;position:relative;right:4vw;top:-3.5vh;}
+a				{color:white;text-decoration:none;}
+a:hover			{color:yellow;}
+#due {float:right;}

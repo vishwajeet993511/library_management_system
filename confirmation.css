@@ -1,0 +1,44 @@
+body 		{margin:0;
+			background-color: rgb(170,170,170);}
+#confirm	{background-color: white;
+			box-sizing:border-box;
+			width:40vw;
+			height:40vh;
+			border:0.7vmin solid black;
+			box-shadow: 0 0 10vmin white;
+			margin:0;
+			margin:auto;
+			position:relative;
+			top:30vh;
+			padding:3vmin;
+			padding-top: 3.5vmin;
+			text-align: center;
+			font-size: 5vmin;
+			font-family: Gabriola;}
+#congrats	{font-size: 5vmin;
+			margin:0;}
+#thanks		{line-height: 5vmin;
+			position:relative;
+			top:2vmin;}
+hr			{margin:0;
+			margin:auto;
+			width:50%;
+			border:0;
+			height:0.1vh;
+			background-color: black;
+			position:relative;
+			top:-0.2vmin;
+			z-index: ;}
+form		{position:relative;
+			top:2vmin;}			
+input[type=submit]	{padding:0;
+					width:6vw;
+					height:4.5vh;
+					font-size: 2.5vmin;
+					border-top:0;
+					border-left:0;
+					border-right:0;
+					border-radius:1vmin;
+					transition:background-color 0.7s , color 0.7s;}
+input[type=submit]:hover	{background-color: blue;
+							color:white;}						

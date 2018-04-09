@@ -1,0 +1,29 @@
+body 					{background-image:url(library_books.jpg);
+				     	background-size: cover; 
+				     	margin:0;}
+
+#header					{background-color: rgba(70,70,70,0.8);
+						margin:auto;
+						width:99.1vw;
+						height:15vh;
+						position:relative;
+						top:0.5vh;}
+
+
+#noteshare				{width: 90vw;
+						position:relative;
+			   			top:2.7vh;
+			   			left:6vw;
+			   			color:yellow;
+			   			font-size: 8vmin;
+			   		    font-family: Alex Brush;}
+
+
+
+form 					{
+	                    margin:auto;
+						width:80%;
+						position:relative;
+						top:5vh;
+					    font-size: 4.2vmin;
+					    }

@@ -1,0 +1,19 @@
+body 			{background-image:url(lib_issue.jpg);
+				background-size: cover; 
+				margin:0;}
+#top_head		{background-color: rgba(70,70,70,0.8);
+				margin:auto;
+				width:99.4vw;
+				height:7vh;
+				position:relative;
+				top:0vh;}
+.rightdivs		{background-color: rgba(40,40,40); position:relative; height:7vh; width:15vw; float:right;font-family: helvetica;}
+.rightdivs:hover,.prof_menu:hover{background-color: black;}
+#user_div		{float:left; position:relative; height:7vh; width:20vw; font-size: 3.1vmin;left:2vw;top:1.2vh; font-family: Tempus Sans ITC;}
+a				{color:white;text-decoration:none;}
+a:hover			{color:yellow;}
+.rightlinks     {color:white; float:right; font-size: 2.3vmin; position:relative; top:2vh; right:2.5vw; text-decoration:none;,align:centre;}
+#logoutlink		{right:5.5vw;}
+#libr_info		{background-color: rgba(70,70,70,0.8); position:relative; width:100vw; height:45vh;top:17vh;margin:auto}
+#info_table		{position:relative;width:30vw; height:12vh; top:2vh; left:1.2vw;font-size:1.5vmax;font-family: helvetica;color:white;}
+#searchlink		{right:3.9vw}	#recommendationlink	{right:2.7vw;}   #studlink 	{right:3.9vw;}

@@ -1,0 +1,110 @@
+body 					{background-image:url(library_books.jpg);
+				     	background-size: cover; 
+				     	margin:0;}
+#header					{background-color: rgba(70,70,70,0.8);
+						margin:auto;
+						width:99.9vw;
+						height:15vh;
+						position:relative;
+						top:0vh;}	
+#noteshare				{width: 90vw;
+						position:relative;
+			   			top:2.7vh;
+			   			left:0vw;
+						text-align:center;
+			   			color:yellow;
+			   			font-size: 8vmin;
+			   		    font-family: Alex Brush;}
+#sign_up				{padding-left :0 ;
+						font-family: Corbel;
+						font-size: 2.8vmin;
+						color:white;}
+hr 						{width:80%;
+						position:relative;
+						top:6.7vh;
+						margin:0;
+						margin:auto;
+						border:0;
+						height:0.1vh;
+						background-color: white;}
+#greeting2				{top:10vh;
+						color:rgb(23,225,220);}
+#login_pg				{margin:auto;
+						background-color: rgba(70,70,70,0.5);
+						width:100vw;
+						height:60vh;
+						position:relative;
+						top:13vh;}
+#login_pg_hd1,#login_pg_hd2		{margin:auto;
+								position:relative;
+								width:50%;
+								height:7vh;
+								font-size: 3.1vmin;
+								color: white;}
+#login_pg_hd1			{background-color:rgba(70,70,70,0.3);
+						float:left;}
+#login_pg_hd2			{background-color:rgba(80,80,80);
+						float:right;}
+form 					{margin:auto;
+						width:80%;
+						position:relative;
+						top:5vh;
+					    font-size: 4.2vmin;
+					    color:white;}
+#libr_form				{display:none;}
+.field					{width:85%;
+						height:4vh;
+						outline:none;
+						margin:0px;
+						font-size: 2.8vmin;
+						box-sizing:border-box;
+						padding-top:2vmin;
+						padding-bottom: 2vmin;
+						padding-left:2vmin;}
+button					{padding:0;
+						border-top:0;
+						border-bottom:0;
+						border-left:0;
+						transition: background-color 0.7s , color 0.7s;}												
+#signup			   		{
+	                     position:relative;
+	                     float:left;
+	                     height: 3.6vh;
+						 width:4.5vw;
+						font-size: 2.05vmin;}
+#login_link             {text-decoration: none;
+						font-size: 2.05vmin;
+						color:black;
+						transition: color 0.7s;}
+#signup_link{
+	                    position:relative;
+						top:-3.5vh;
+	                    text-decoration: none;
+						font-size: 3.00vmin;
+						color:white;
+						transition: color 0.7s;
+                         }
+#login_link:hover    {color:white;}	
+#signup_link:hover 	{color:yellow;}											
+#final_log				{float:right;
+						font-size: 2.5vmin;
+						height:4.8vh;
+						width: 5.8vw;
+						outline:none;
+						position:relative;
+						right:4vw;
+						top:-3.5vh;}				
+button:hover			{background-color: blue;
+						color:white;}
+.forget					{text-decoration: none;
+						color:rgb(23,225,220);
+						font-size: 2.8vmin;
+						position:relative;
+						top:-1.3vh;}
+.warn					{font-size: 2.4vmin;
+						color:yellow;
+						position:relative;
+						top:-1vh;}	
+#check					{font-size: 2.8vmin;
+						color:yellow;}
+.ast					{color:red;}

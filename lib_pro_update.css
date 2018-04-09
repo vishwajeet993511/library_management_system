@@ -1,0 +1,81 @@
+body 			{background-image:url(books-education.jpg);
+				background-size: cover;
+				margin:0;}
+#form_pg		{background-color: rgba(70,70,70,0.7);
+				width:80vw;
+				margin:auto;
+				border-top:0;
+				border-bottom:0;position:relative;top:12vh;}
+form 			{margin:auto;
+				width:88%;
+				height:100%;
+				padding:0;
+				color:white;
+				font-size: 3.3vmin;
+				font-family: Gabriola;}
+h1				{margin:0;
+				color:white;
+				font-size: 5vmin;
+				font-family: Gabriola;}	
+hr				{margin:0;
+				margin:auto;
+				border:0;
+				height:0.1vh;
+				background-color: white;}
+.field			{box-sizing:border-box;
+				border:0;
+				height:3.6vh;
+				width:45%;
+				font-size: 2.5vmin;
+				outline:none;
+				margin:0;
+				padding-left:1.5vmin;}
+input[type=date]{width:38%;}
+input[type=radio]{width:2.2vmin;
+				height:2.2vmin;}
+input[type=date]{float:right;}
+#dob			{float:right;
+				position:relative;
+				right:14%;}
+textarea		{box-sizing:border-box;
+				border:0;
+				margin:0;
+				outline:none;
+				font-size: 2.2vmin;
+				width:55%;
+				height:16vmin;}				
+input:focus , textarea:focus{border:0.1vmin solid black;}
+button[type=submit]	{padding:0;
+					width:6vw;
+					height:4.5vh;
+					font-size: 2.5vmin;
+					border-top:0;
+					border-left:0;
+					border-right:0;
+					border-radius:0.5vmin;
+					transition:background-color 0.7s , color 0.7s;}
+button[type=submit]:hover	{background-color: blue;
+							color:white;}							
+ul 				{margin:0;
+				padding-top:0;
+				padding-left:1.4vw;}
+.ast			{color:red;}
+#db_err			{float:right;
+				position:relative;
+				top:-3vmin;}
+.err			{color:yellow;
+				font-size: 2.5vmin;}
+#top_head		{background-color: rgba(70,70,70,0.8);
+				margin:auto;
+				width:99vw;
+				height:7vh;
+				position:fixed;
+				top:0vh;}
+.rightdivs		{background-color: rgba(40,40,40); position:relative; height:7vh; width:15vw; float:right;font-family: helvetica;}
+.rightdivs:hover,.prof_menu:hover{background-color: black;}
+#user_div		{float:left; position:relative; height:7vh; width:20vw; font-size: 3.1vmin;left:2vw;top:1.2vh; font-family: Tempus Sans ITC;}
+a				{color:white;text-decoration:none;}
+a:hover			{color:yellow;}
+.rightlinks     {color:white; float:right; font-size: 2.3vmin; position:relative; top:2vh; right:2.5vw; text-decoration:none;,align:centre;}
+#logoutlink		{right:5.5vw;}
+#searchlink		{right:3.9vw}	#recommendationlink	{right:2.7vw;}   #studlink 	{right:3.9vw;}

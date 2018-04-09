@@ -1,0 +1,34 @@
+body 			{background-image:url(search.jpg);
+				background-size: cover; 
+				margin:0;}
+input			{padding: 0px; width: 200px; height: 22px; font-size: 15px;}
+#top_head		{background-color: rgba(70,70,70,0.8);
+				margin:auto;
+				width:100%;
+				height:7vh;
+				position:relative;
+				top:0vh;}
+.search_menu	.prof_menu		{background-color: rgba(40,40,40); position:relative; width:10vw; height:7vh;left:20vw;top:15vh;float:left;color:white;}
+.Submit			{background-color: black; width: 50; height: 20}
+#search_head	{background-color: rgba(70,70,70,0.8); position:relative; width:80vw; height:75vh;top:12vh;margin:auto;}
+.rightdivs		{background-color: rgba(40,40,40); position:relative; height:7vh; width:15vw; float:right;font-family: helvetica;}
+.rightdivs:hover,.prof_menu:hover{background-color: black;}
+#user_div		{float:left; position:relative; height:7vh; width:20vw; color:white; font-size: 3.1vmin;left:2vw;top:1.2vh; font-family: Tempus Sans ITC;}
+.rightlinks     {color:white; float:right; font-size: 2.3vmin; position:relative; top:2vh; right:2.5vw; text-decoration:none;,align:centre;}
+#logoutlink	,#proflink	{right:5.5vw;}
+.prof_menu		{background-color: rgba(40,40,40); position:relative; width:10vw; height:7vh;left:20vw;top:15vh;float:left;font-size:2.1vmin;color:white;}
+button			{padding:5;border-top:0;border-bottom:0;border-left:0;}
+#info_table		{position:relative;width:30vw; height:16vh; top:2vh; left:1.2vw;font-size:3.3vmin;font-family: helvetica;color:white;}
+
+form			{font-size:2.0vmax;}
+
+.search_buttons{
+	float: right;
+    padding: 5px;
+}
+.result_table{
+	float:center;
+	padding: 5px;
+}
+a				{color:white;text-decoration:none;}
+a:hover			{color:yellow;}
