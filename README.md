@@ -66,11 +66,11 @@ members and librarian.
   
 **Conceptual Design (E-R Diagram)**  
   
-  ![alt_text] ()
+  ![alt_text](https://github.com/vishwajeet993511/library_management_system/blob/master/ER_diag.png)
   
   
     
 **Logical Design (Database schema)**  
- ![alt_text]()
+ ![alt_text]( https://github.com/vishwajeet993511/library_management_system/blob/master/schema.png )
   
   
