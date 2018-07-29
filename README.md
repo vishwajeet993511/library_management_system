@@ -1,3 +1,13 @@
+# LIBRARY MANAGEMENT SYSTEM  
+  
+    
+    
+## Table of Contents
+- [Abstract](#abstract)
+- [Objectives](#objectives)
+- [DESIGN OF LMS](#design-of-lms)
+
+  
 ## ABSTRACT
   Library management refers to the issues involved in managing the resources
 available in library such as classification of material, book processing and borrowing
@@ -11,14 +21,14 @@ librarians are added.
 relationship to create a database that can be easily manage by admin.  
   
 ### Following are the facilities:
-**Librarian**:​ can check the status of the books issue or submit the [books](#following-are-the-facilities) and manage the
+**Librarian**:​ can check the status of the books issue or submit the [books](#DESIGN-OF-LMS) and manage the
 dues of students  
 **Member**: ​can check the status of a book ,borrow & return books and can leave and join
 library  
   
     
 
-### **OBJECTIVES**:  
+### OBJECTIVES 
 
 The objectives of this report are to provide complete database management for
 library which will help to minimize the duplication of data, get rid from paper filling system
@@ -61,7 +71,7 @@ attributes like age, gender,and total issued books etc.
 LMS provides friendly graphical user interface for the above mentioned facilities for
 members and librarian.  
   
-### **DESIGN OF LMS:**  
+### DESIGN OF LMS: 
   
   
 **Conceptual Design (E-R Diagram)**  
